@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Computer science Ph.D. stipend holder at the Fraunhofer Institute for Industrial Mathematics (ITWM) and Fraunhofer Research Center Machine Learning. My key research interest is the analysis of adversarial attacks   DNN. I am interested in the Machine Learning and the interection of ML and computer security.
+Computer science Ph.D. stipend holder at the Fraunhofer Institute for Industrial Mathematics (ITWM) and Fraunhofer Research Center Machine Learning. I am interested in the Machine Learning and the interection of ML and computer security.
 
 I am supervised by [Janis Keuper](https://www.itwm.fraunhofer.de/en/departments/hpc/staff/janis-keuper.html) and [Ullrich Köthe](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe).  I am external Ph.D. student at the University of Heidelberg ([2nd best ranked German university](https://www.usnews.com/education/best-global-universities/germany)).
 
