@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Materials for courses you taught.
 nav: true
 ---
 
@@ -15,7 +15,9 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 ## Mastes
 
- - 2018 - (“Information Security”)[https://www.iaik.tugraz.at/person/christian-rechberger/] (Prof. Rechberger). Exercise: Merkle Tree, Public Key Cryptography
+ - 2018 - (“Information Security”)[https://www.iaik.tugraz.at/person/christian-rechberger/] (Prof. Rechberger). 
+   - Exercise: Merkle Tree, Public Key Cryptography
+   - (Github Repository)[https://github.com/Crytpo/bitcoins]
 
 ## Bachelor
 
