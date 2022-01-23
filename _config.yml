@@ -180,8 +180,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Lorenz
+  first_name: [Peter, P.]
 
   style: apa
   locale: en
