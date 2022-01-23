@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Computer science Ph.D. stipend holder at the Fraunhofer Institute for Industrial Mathematics (ITWM) and Fraunhofer Research Center Machine Learning. My key research interest is the analysis of adversarial attacks   DNN. I am interested in the Machine Learning and the interection of ML and computer security.
 
-I am supervised by [Janis Keuper](https://www.itwm.fraunhofer.de/en/departments/hpc/staff/janis-keuper.html) and [Ullrich Köthe](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe).  As a Ph.D. student at the University of Heidelberg ([2nd best ranked German university](https://www.usnews.com/education/best-global-universities/germany)).
+I am supervised by [Janis Keuper](https://www.itwm.fraunhofer.de/en/departments/hpc/staff/janis-keuper.html) and [Ullrich Köthe](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe).  I am external Ph.D. student at the University of Heidelberg ([2nd best ranked German university](https://www.usnews.com/education/best-global-universities/germany)).
 
 My research interests includes engaging the problem of adversarial attacks from a new, more fundamental angle: recent research has shown, that current implementations of key components of deep neural networks are neglecting basic principles of signal processing theory. For example, violations of the sampling theorem and convolution theorem have been shown to cause massive distortions of network outputs. n particular, not only aiming at the detection of possible attacks, but also new, correct implementations of DNN components which allow more robust networks with better generalization properties.
       
