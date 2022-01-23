@@ -13,7 +13,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 # Graz University of Technology
 
-## Mastes
+## Master
 
  - 2018 - [“Information Security”](https://www.iaik.tugraz.at/person/christian-rechberger) - Prof. Rechberger. 
    - Exercise: Merkle Tree, Public Key Cryptography
