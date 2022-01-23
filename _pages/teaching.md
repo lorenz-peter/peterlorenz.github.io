@@ -11,15 +11,15 @@ nav: true
 Organize your courses by years, topics, or universities, however you like! -->
 
 
-Graz University of Technology
+# Graz University of Technology
 
-Mastes:
+## Mastes
 
-2018 - (“Information Security”)[https://www.iaik.tugraz.at/person/christian-rechberger/] (Prof. Rechberger). Exercise: Merkle Tree, Public Key Cryptography
+ - 2018 - (“Information Security”)[https://www.iaik.tugraz.at/person/christian-rechberger/] (Prof. Rechberger). Exercise: Merkle Tree, Public Key Cryptography
 
-Bachelor:
+## Bachelor
 
-2018 - “Computational Intelligence” (Prof. Maas). Exercise:ML, Regression, Classification HMM, NN, Unsupervised L.
-2018 - “Numerical Calculation and Linear Algebra” (Prof. Elsholtz). ~600 students: Homework assignments, 2 tests and test proctoring. 
-2017 - “Numerical Calculation and Linear Algebra” (Prof. Berglez, retired). ~600 students: Homework assignments, 2 tests and test proctoring. 
-2016 - “Numerical Calculation and Linear Algebra” (Prof. Berglez). ~600 students: Homework assignments, 2 tests and test proctoring. 
+ - 2018 - “Computational Intelligence” (Prof. Maas). Exercise:ML, Regression, Classification HMM, NN, Unsupervised L.
+ - 2018 - “Numerical Calculation and Linear Algebra” (Prof. Elsholtz). ~600 students: Homework assignments, 2 tests and test proctoring. 
+ - 2017 - “Numerical Calculation and Linear Algebra” (Prof. Berglez, retired). ~600 students: Homework assignments, 2 tests and test proctoring. 
+ - 2016 - “Numerical Calculation and Linear Algebra” (Prof. Berglez). ~600 students: Homework assignments, 2 tests and test proctoring. 
