@@ -50,7 +50,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: jS5t3r # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: jS5t3r # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: peter-lorenz-06918169 # your LinkedIn user name
 scholar_userid: sb4hPQMAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -62,7 +62,7 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
-stackoverflow_id: j35t3r #your stackoverflow id
+stackoverflow_id: 4355878/j35t3r #your stackoverflow id
 
 rss_icon: true
 
