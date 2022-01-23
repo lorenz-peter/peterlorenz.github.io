@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Fraunhbofer Research Center for Machine Learning</a>. 
+description: <a href="#">Fraunhofer Research Center for Machine Learning</a>. 
 
 profile:
   align: right
@@ -22,9 +22,9 @@ Computer science Ph.D. stipend holder at the Fraunhofer Institute for Industrial
 
 I am supervised by [Janis Keuper](https://www.itwm.fraunhofer.de/en/departments/hpc/staff/janis-keuper.html) and [Ullrich Köthe](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe).  I am external Ph.D. student at the University of Heidelberg ([2nd best ranked German university](https://www.usnews.com/education/best-global-universities/germany)).
 
-My research interests includes engaging the problem of adversarial attacks from a new, more fundamental angle: recent research has shown, that current implementations of key components of deep neural networks are neglecting basic principles of signal processing theory. For example, violations of the sampling theorem and convolution theorem have been shown to cause massive distortions of network outputs. n particular, not only aiming at the detection of possible attacks, but also new, correct implementations of DNN components which allow more robust networks with better generalization properties.
+My research interests includes engaging the problem of adversarial attacks from a new, more fundamental angle: recent research has shown, that current implementations of key components of deep neural networks are neglecting basic principles of signal processing theory. For example, violations of the sampling theorem and convolution theorem have been shown to cause massive distortions of network outputs. In particular, not only aiming at the detection of possible attacks, but also new, correct implementations of DNN components which allow more robust networks with better generalization properties.
       
-You can [download my resume](https://drive.google.com/file/d/1_fa7v4fSQOkWAfKxYwQRS5zg18OQBYy5/view?usp=sharing) and [additonal certificates](https://drive.google.com/file/d/11YcC8wjmFVjUH8VD4LhjFd39_LsqjKMN/view?usp=sharing).
+You can [download my resume](https://drive.google.com/file/d/1_fa7v4fSQOkWAfKxYwQRS5zg18OQBYy5/view?usp=sharing) and [additional certificates](https://drive.google.com/file/d/11YcC8wjmFVjUH8VD4LhjFd39_LsqjKMN/view?usp=sharing).
       
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
