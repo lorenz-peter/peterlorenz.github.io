@@ -1,14 +1,14 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Keuper":
+  - firstname: ["Janis", "J.", "J. K.","Janis Keuper"]
+    url: https://imla.hs-offenburg.de/personen/prof-dr-ing-janis-keuper
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+"Straßel":
+  - firstname: ["Dominik", "D.", "D. S.", "Dominik Straßel"]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Harder":
+  - firstname: ["Paula", "P.", "P. H.", "Paula Harder" ]
+    url: https://paulaharder.github.io/
 
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
