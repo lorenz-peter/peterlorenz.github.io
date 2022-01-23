@@ -6,7 +6,7 @@ description: <a href="#">Fraunhbofer Research Center for Machine Learning</a>. .
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_img.png
   address: >
     <p>HPC, Fraunhofer Institute for Industrial Mathematics</p>
     <p>Fraunhoferplatz 1</p>
