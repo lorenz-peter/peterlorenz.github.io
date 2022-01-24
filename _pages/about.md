@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">ITWM and Fraunhofer Research Center for Machine Learning</a>. 
+description: <a href="#">ITWM, Fraunhofer Research Center for Machine Learning and Heidelberg Visual Learning Lab</a>. 
 
 profile:
   align: right
