@@ -15,17 +15,17 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 ## Master
 
- - 2018 - [“Information Security”](https://www.iaik.tugraz.at/person/christian-rechberger) - Prof. Rechberger. 
+ - 2018 - [“Information Security”](https://www.iaik.tugraz.at/person/christian-rechberger) - [Prof. Rechberger](https://www.iaik.tugraz.at/person/christian-rechberger/). 
    - Exercise: Merkle Tree, Public Key Cryptography
    - [Github Repository](https://github.com/Crytpo/bitcoins)
 
 ## Bachelor
 
- - 2018 - “Computational Intelligence” - Prof. Maas. 
+ - 2018 - “Computational Intelligence” - [Prof. Maas](https://igi-web.tugraz.at/people/maass/). 
    - Exercise: ML, Regression, Classification HMM, NN, Unsupervised L.
- - 2018 - “Numerical Calculation and Linear Algebra” - Prof. Elsholtz. 
+ - 2018 - “Numerical Calculation and Linear Algebra” - [Prof. Elsholtz](https://www.math.tugraz.at/~elsholtz/). 
    - ~600 students: Homework assignments, 2 tests and test proctoring. 
- - 2017 - “Numerical Calculation and Linear Algebra” - Prof. Berglez, retired. 
+ - 2017 - “Numerical Calculation and Linear Algebra” - [Prof. Berglez](https://www.finanz.math.tugraz.at/~berglez/), retired. 
    - ~600 students: Homework assignments, 2 tests and test proctoring. 
- - 2016 - “Numerical Calculation and Linear Algebra” - Prof. Berglez. 
+ - 2016 - “Numerical Calculation and Linear Algebra” - [Prof. Berglez](https://www.finanz.math.tugraz.at/~berglez/). 
    - ~600 students: Homework assignments, 2 tests and test proctoring. 
