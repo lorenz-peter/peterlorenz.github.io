@@ -21,7 +21,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 ## Bachelor
 
- - 2018 - “Computational Intelligence” - [Prof. Maas](https://igi-web.tugraz.at/people/maass/). 
+ - 2018 - [“Computational Intelligence”](https://www.spsc.tugraz.at/courses/computational-intelligence.html) - [Post-doc Knoll](https://www.spsc.tugraz.at/people/christian-knoll.html) and [Prof. Maas](https://igi-web.tugraz.at/people/maass/). 
    - Exercise: ML, Regression, Classification HMM, NN, Unsupervised L.
  - 2018 - “Numerical Calculation and Linear Algebra” - [Prof. Elsholtz](https://www.math.tugraz.at/~elsholtz/). 
    - ~600 students: Homework assignments, 2 tests and test proctoring. 
