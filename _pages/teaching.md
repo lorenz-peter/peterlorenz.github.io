@@ -15,7 +15,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 ## Master
 
- - 2018 - [“Information Security”](https://www.iaik.tugraz.at/person/christian-rechberger) - [Prof. Rechberger](https://www.iaik.tugraz.at/person/christian-rechberger/). 
+ - 2018 - [“Information Security”](https://www.iaik.tugraz.at/person/christian-rechberger) - [Post-Doc Ramacer ](https://ramacher.at/) and [Prof. Rechberger](https://www.iaik.tugraz.at/person/christian-rechberger/). 
    - Exercise: Merkle Tree, Public Key Cryptography
    - [Github Repository](https://github.com/Crytpo/bitcoins)
 
