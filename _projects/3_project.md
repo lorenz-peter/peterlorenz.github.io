@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: TUG Latex Templates
+description: A collection of diverse university related templates.
 img: assets/img/7.jpg
-redirect:  https://github.com/tugLatexTemplates
+redirect:  https://github.com/tugLatexTemplates/main_wiki/wiki
 importance: 3
 category: work
 ---
