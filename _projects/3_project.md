@@ -1,7 +1,7 @@
 ---
 layout: page
-title: TUG Latex Templates
-description: A collection of diverse university related templates.
+title: TUGLatexTemplates
+description: Acollectionofdiverseuniversityrelatedtemplates.
 img: assets/img/7.jpg
 redirect:  https://github.com/tugLatexTemplates/main_wiki/wiki
 importance: 3
