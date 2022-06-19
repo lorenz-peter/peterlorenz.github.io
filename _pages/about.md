@@ -6,7 +6,7 @@ description: <a href="#">ITWM, Fraunhofer Research Center for Machine Learning a
 
 profile:
   align: right
-  image: profile_img.png
+  image: peter2_gray.jpg
   address: >
     <p>HPC, Fraunhofer Institute for Industrial Mathematics</p>
     <p>Fraunhoferplatz 1</p>
