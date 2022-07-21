@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+description: the famous cat image within adversarial perturbation
+img: assets/img/cat.jpg
 importance: 3
 category: fun
 ---
