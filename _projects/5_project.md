@@ -28,3 +28,5 @@ new_h = 299 if wide else int(img.height * 299 / img.width)
 img = img.resize((new_w, new_h)).crop((0, 0, 299, 299))
 img = (np.asarray(img) / 255.0).astype(np.float32)
 ```
+
+[Code](https://github.com/adverML/synthesizing_robust_adversarial)
