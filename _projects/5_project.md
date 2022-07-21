@@ -18,6 +18,8 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
 
 
+![cat](assets/img/cat.jpg)
+
 
 This is how to download the images:
 
