@@ -67,14 +67,15 @@ To make images responsive, add `img-fluid` class to each; for rounded corners an
 Here's the code for the last row of images above:
 
 {% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% responsive_image path: assets/img/6.jpg title: "example image" class: "img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% responsive_image path: assets/img/11.jpg title: "example image" class: "img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+```python
+img_path, _ = urlretrieve('https://www.anishathalye.com/media/2017/07/25/cat.jpg')
+img_class = 281
+img = PIL.Image.open(img_path)
+big_dim = max(img.width, img.height)
+wide = img.width > img.height
+new_w = 299 if not wide else int(img.width * 299 / img.height)
+new_h = 299 if wide else int(img.height * 299 / img.width)
+img = img.resize((new_w, new_h)).crop((0, 0, 299, 299))
+img = (np.asarray(img) / 255.0).astype(np.float32)
 ```
 {% endraw %}
