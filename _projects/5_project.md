@@ -17,7 +17,8 @@ This is how to download the images:
 ```python
 import PIL
 import numpy as np
-img_path, _ = urlretrieve('https://www.anishathalye.com/media/2017/07/25/cat.jpg')
+# img_path, _ = urlretrieve('https://www.anishathalye.com/media/2017/07/25/cat.jpg')
+img_path, _ = urlretrieve('https://github.com/lorenz-peter/lorenz-peter.github.io/raw/master/assets/img/cat.jpg')
 img_class = 281
 img = PIL.Image.open(img_path)
 big_dim = max(img.width, img.height)
