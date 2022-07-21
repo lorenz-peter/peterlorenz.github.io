@@ -2,7 +2,7 @@
 layout: page
 title: project 5
 description: the famous cat image within adversarial perturbation
-img: /assets/img/cat.jpg
+img: assets/img/cat.jpg
 importance: 3
 category: fun
 ---
