@@ -7,6 +7,9 @@ importance: 1
 category: work
 ---
 
+[Link to certificate](https://github.com/lorenz-peter/lorenz-peter.github.io/blob/master/assets/pdf/OxML22.pdf)
+
+
 {% responsive_image path: assets/img/oxlogo.jpg title: "OX SummerSchool" class: "img-fluid rounded z-depth-1" %}
 
-[Link to certificate](https://github.com/lorenz-peter/lorenz-peter.github.io/blob/master/assets/pdf/OxML22.pdf)
+
