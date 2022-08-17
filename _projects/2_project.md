@@ -9,4 +9,4 @@ category: work
 
 {% responsive_image path: assets/img/oxlogo.jpg title: "OX SummerSchool" class: "img-fluid rounded z-depth-1" %}
 
-![oxfordsummerschool](assets/pdf/OxML22.pdf)
+![oxfordsummerschool](https://github.com/lorenz-peter/lorenz-peter.github.io/blob/master/assets/pdf/OxML22.pdf)
