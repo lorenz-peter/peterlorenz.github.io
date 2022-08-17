@@ -7,6 +7,4 @@ importance: 1
 category: work
 ---
 
-
-
-{% responsive_image path: assets/img/2022-06-09.jpeg title: "cvpr certificate" class: "img-fluid rounded z-depth-1" %}
+{% responsive_image path: assets/img/2022-06-09.jpeg title: "OxML certificate" class: "img-fluid rounded z-depth-1" %}
