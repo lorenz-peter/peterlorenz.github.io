@@ -2,7 +2,7 @@
 layout: page
 title: Oxford ML Summer School 2022
 description: Summer school participation
-img: assets/pdf/OxML 2022, Certificate of participation_Peter Lorenz.pdf
+img: assets/pdf/OxML22.pdf
 importance: 1
 category: work
 ---
