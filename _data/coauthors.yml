@@ -17,3 +17,11 @@
 "Steinbauer": 
   - firstname: ["Gerald", "G."]
     url: https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=9F13E369D9C1EA7F&pPersonenGruppe=3
+
+"Chen":
+  - firstname: ["Pin-Yu", "P.", "Pin-Yu Chen"]
+    url: https://imla.hs-offenburg.de/personen/prof-dr-ing-janis-keuper
+    
+"Liu":
+  - firstname: ["Sijia", "S.", "Sijia Liu"]
+    url: https://lsjxjtu.github.io/
