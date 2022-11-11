@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">ITWM, Fraunhofer Research Center for Machine Learning and Heidelberg Visual Learning Lab</a>. 
+description: <a href="#">ITWM, Fraunhofer Research Center for Machine Learning</a>. 
 
 profile:
   align: right
   image: peter2_gray.jpg
   address: >
-    <p>HPC, Fraunhofer Institute for Industrial Mathematics</p>
+    <p>ITWM, Fraunhofer Institute for Industrial Mathematics</p>
     <p>Fraunhoferplatz 1</p>
     <p>Kaiserslautern, Germany</p>
 
