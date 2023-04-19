@@ -17,14 +17,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!--
+
 Computer science Ph.D. stipend holder at the Fraunhofer Institute for Industrial Mathematics (ITWM) and Fraunhofer Research Center Machine Learning. I am interested in the  the interection of ML and computer security. In particular, **robustness** and **trustworthiness** of deep neural networks.
 
 
 I am advised by [Janis Keuper](https://www.itwm.fraunhofer.de/en/departments/hpc/staff/janis-keuper.html) and supervised by [Ullrich Köthe](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe).  I am external Ph.D. student at the University of Heidelberg ([2nd best ranked German university](https://www.usnews.com/education/best-global-universities/germany)).
--->
 
-Hello, my name is Peter Lorenz. I am interested in the the interection of ML and computer security. In particular, robustness and trustworthiness of deep neural networks. My key research interest is the analysis of adversarial attacks of DNN. In particular, not only aiming at the detection of possible attacks, but also new, correct implementations of DNN components which allow more robust networks with better generalization properties.
+
+I am interested in the the interection of ML and computer security. In particular, robustness and trustworthiness of deep neural networks. My key research interest is the analysis of adversarial attacks of DNN. In particular, not only aiming at the detection of possible attacks, but also new, correct implementations of DNN components which allow more robust networks with better generalization properties.
 
 <!--
 You can [download my resume](https://drive.google.com/file/d/1_fa7v4fSQOkWAfKxYwQRS5zg18OQBYy5/view?usp=sharing), [additional certificates](https://drive.google.com/file/d/11YcC8wjmFVjUH8VD4LhjFd39_LsqjKMN/view?usp=sharing) and [personality analytics](https://drive.google.com/file/d/1LH53rU8-_Ow7200BUPiWC7TqEGu-y4NE/view?usp=sharing).
