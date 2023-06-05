@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ICASSP Top 3%
-description: robust model towards open-world classifications
+description: honor of paper
 img: assets/img/icassptop3percent.png
 importance: 1
 category: work
