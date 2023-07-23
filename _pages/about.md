@@ -21,7 +21,7 @@ Computer science Ph.D. stipend holder at the Fraunhofer Institute for Industrial
 
 I am advised by  [Janis Keuper](https://www.itwm.fraunhofer.de/en/departments/hpc/staff/janis-keuper.html)  and supervised by [Ullrich Köthe](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe). I am an external Ph.D. student at the University of Heidelberg  ([2nd best ranked German university](https://www.usnews.com/education/best-global-universities/germany)).
 
-I am interested in the intersection of ML and computer security. In particular, the robustness and trustworthiness of deep neural networks. My key research interest is the analysis of adversarial attacks on DNN. In particular, not only aiming at the detection of possible attacks but also new, correct implementations of DNN components that allow more robust networks with better generalization properties.
+I am interested in the intersection of ML and computer security. In particular, the robustness and trustworthiness of deep neural networks. My key research interest is the analysis of adversarial attacks on DNN.
 
 
 
