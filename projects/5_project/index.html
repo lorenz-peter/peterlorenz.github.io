@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-    <meta http-equiv="refresh" content="3; url=lorenz-peter.github.io/" />
+    
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   Peter  Lorenz
 
 
-  | Page not found
+  | Cat image
 
 </title>
 <meta name="description" content="Personal Website
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👨‍🎓</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="lorenz-peter.github.io/404.html">
+<link rel="canonical" href="lorenz-peter.github.io/projects/5_project/">
 
 
 <!-- Dark Mode -->
@@ -189,12 +189,31 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h1 class="post-title">Cat image</h1>
+    <p class="post-description">the famous cat image within adversarial perturbation</p>
   </header>
 
   <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="lorenz-peter.github.io/">here</a>.</p>
+    <p><img src="/assets/img/cat.jpg" alt="cat"></p>
+
+<p>This is how to download the images:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="n">PIL</span>
+<span class="kn">import</span> <span class="n">numpy</span> <span class="k">as</span> <span class="n">np</span>
+<span class="kn">from</span> <span class="n">urllib.request</span> <span class="kn">import</span> <span class="n">urlretrieve</span>
+<span class="c1"># img_path, _ = urlretrieve('https://www.anishathalye.com/media/2017/07/25/cat.jpg')
+</span><span class="n">img_path</span><span class="p">,</span> <span class="n">_</span> <span class="o">=</span> <span class="nf">urlretrieve</span><span class="p">(</span><span class="sh">'</span><span class="s">https://github.com/lorenz-peter/lorenz-peter.github.io/raw/master/assets/img/cat.jpg</span><span class="sh">'</span><span class="p">)</span>
+<span class="n">img_class</span> <span class="o">=</span> <span class="mi">281</span>
+<span class="n">img</span> <span class="o">=</span> <span class="n">PIL</span><span class="p">.</span><span class="n">Image</span><span class="p">.</span><span class="nf">open</span><span class="p">(</span><span class="n">img_path</span><span class="p">)</span>
+<span class="n">big_dim</span> <span class="o">=</span> <span class="nf">max</span><span class="p">(</span><span class="n">img</span><span class="p">.</span><span class="n">width</span><span class="p">,</span> <span class="n">img</span><span class="p">.</span><span class="n">height</span><span class="p">)</span>
+<span class="n">wide</span> <span class="o">=</span> <span class="n">img</span><span class="p">.</span><span class="n">width</span> <span class="o">&gt;</span> <span class="n">img</span><span class="p">.</span><span class="n">height</span>
+<span class="n">new_w</span> <span class="o">=</span> <span class="mi">299</span> <span class="k">if</span> <span class="ow">not</span> <span class="n">wide</span> <span class="k">else</span> <span class="nf">int</span><span class="p">(</span><span class="n">img</span><span class="p">.</span><span class="n">width</span> <span class="o">*</span> <span class="mi">299</span> <span class="o">/</span> <span class="n">img</span><span class="p">.</span><span class="n">height</span><span class="p">)</span>
+<span class="n">new_h</span> <span class="o">=</span> <span class="mi">299</span> <span class="k">if</span> <span class="n">wide</span> <span class="k">else</span> <span class="nf">int</span><span class="p">(</span><span class="n">img</span><span class="p">.</span><span class="n">height</span> <span class="o">*</span> <span class="mi">299</span> <span class="o">/</span> <span class="n">img</span><span class="p">.</span><span class="n">width</span><span class="p">)</span>
+<span class="n">img</span> <span class="o">=</span> <span class="n">img</span><span class="p">.</span><span class="nf">resize</span><span class="p">((</span><span class="n">new_w</span><span class="p">,</span> <span class="n">new_h</span><span class="p">)).</span><span class="nf">crop</span><span class="p">((</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">299</span><span class="p">,</span> <span class="mi">299</span><span class="p">))</span>
+<span class="n">img</span> <span class="o">=</span> <span class="p">(</span><span class="n">np</span><span class="p">.</span><span class="nf">asarray</span><span class="p">(</span><span class="n">img</span><span class="p">)</span> <span class="o">/</span> <span class="mf">255.0</span><span class="p">).</span><span class="nf">astype</span><span class="p">(</span><span class="n">np</span><span class="p">.</span><span class="n">float32</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p><a href="https://github.com/adverML/synthesizing_robust_adversarial" target="_blank" rel="noopener noreferrer">Code</a></p>
 
   </article>
 
