@@ -2,6 +2,16 @@
 layout: about
 title: about
 permalink: /
+subtitle: <a href='#'>ITWM Fraunhofer</a>. Address. Contacts. Moto. Etc.
+
+profile:
+  align: right
+  image: peter2_gray.jpg
+  address: >
+    <p>ITWM, Fraunhofer Institute for Industrial Mathematics</p>
+    <p>Fraunhoferplatz 1</p>
+    <p>Kaiserslautern, Germany</p>
+
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,3 +30,5 @@ I am interested in the intersection of ML and computer security. In particular, 
 
 
 <script src="https://tryhackme.com/badge/1768902"></script>
+
+
