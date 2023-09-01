@@ -17,6 +17,7 @@
   --global-footer-link-color: #ffffff;
   --global-distill-app-color: #828282;
   --global-divider-color: rgba(0,0,0,.1);
+  --global-card-bg-color: #ffffff;
 }
 :root .fa-sun {
   display: none;
@@ -25,6 +26,12 @@
   padding-left: 10px;
   padding-top: 12px;
   display: block;
+}
+:root .repo-img-light {
+  display: block;
+}
+:root .repo-img-dark {
+  display: none;
 }
 
 html[data-theme=dark] {
@@ -39,6 +46,7 @@ html[data-theme=dark] {
   --global-footer-link-color: #000000;
   --global-distill-app-color: #e8e8e8;
   --global-divider-color: #424246;
+  --global-card-bg-color: #212529;
 }
 html[data-theme=dark] .fa-sun {
   padding-left: 10px;
@@ -47,6 +55,12 @@ html[data-theme=dark] .fa-sun {
 }
 html[data-theme=dark] .fa-moon {
   display: none;
+}
+html[data-theme=dark] .repo-img-light {
+  display: none;
+}
+html[data-theme=dark] .repo-img-dark {
+  display: block;
 }
 
 /******************************************************************************
@@ -86,7 +100,18 @@ body.sticky-bottom-footer {
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
-p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+em,
+div,
+li,
+span,
+strong {
   color: var(--global-text-color);
 }
 
@@ -94,15 +119,31 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
-a, table.table a {
+table td,
+table th {
+  color: var(--global-text-color);
+}
+table td {
+  font-size: 1rem;
+}
+
+a,
+table.table a {
   color: var(--global-theme-color);
 }
-a:hover, table.table a:hover {
+a:hover,
+table.table a:hover {
   color: var(--global-theme-color);
   text-decoration: underline;
 }
-a:hover:after :not(.nav-item.dropdown), table.table a:hover:after :not(.nav-item.dropdown) {
+a:hover:after :not(.nav-item.dropdown),
+table.table a:hover:after :not(.nav-item.dropdown) {
   width: 100%;
+}
+
+figure,
+img {
+  max-width: 90vw;
 }
 
 blockquote {
@@ -125,12 +166,30 @@ blockquote {
   text-align: center;
 }
 
-.citation, .citation-number {
+.card {
+  background-color: var(--global-card-bg-color);
+}
+.card img {
+  width: 100%;
+}
+.card .card-title {
+  color: var(--global-text-color);
+}
+.card .card-item {
+  width: auto;
+  margin-bottom: 10px;
+}
+.card .card-item .row {
+  display: flex;
+  align-items: center;
+}
+
+.citation,
+.citation-number {
   color: var(--global-theme-color);
 }
 
 .profile {
-  margin-left: 1rem;
   width: 100%;
 }
 .profile .address {
@@ -141,6 +200,14 @@ blockquote {
 .profile .address p {
   display: inline-block;
   margin: 0;
+}
+
+.profile.float-right {
+  margin-left: 1rem;
+}
+
+.profile.float-left {
+  margin-right: 1rem;
 }
 
 @media (min-width: 576px) {
@@ -219,7 +286,7 @@ blockquote {
 }
 .navbar.navbar-light .navbar-brand.social a i::before {
   color: var(--global-text-color);
-  -webkit-transition: all 0.2s ease-in-out;
+  transition-property: all 0.2s ease-in-out;
 }
 .navbar.navbar-light .navbar-brand.social a:hover i::before {
   color: var(--global-theme-color);
@@ -256,13 +323,14 @@ blockquote {
   transform: rotate(0);
 }
 
-.news table td {
-  font-size: 1rem;
+#light-toggle {
+  padding: 0;
+  border: 0;
+  background-color: inherit;
   color: var(--global-text-color);
 }
-
-.news table th {
-  color: var(--global-text-color);
+#light-toggle:hover {
+  color: var(--global-hover-color);
 }
 
 .social {
@@ -273,7 +341,7 @@ blockquote {
 }
 .social .contact-icons a i::before {
   color: var(--global-text-color);
-  -webkit-transition: all 0.2s ease-in-out;
+  transition-property: all 0.2s ease-in-out;
 }
 .social .contact-icons a:hover i::before {
   color: var(--global-theme-color);
@@ -306,15 +374,53 @@ footer.sticky-bottom {
   font-size: 0.9rem;
 }
 
+.cv {
+  margin-bottom: 40px;
+}
+.cv .card {
+  background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+}
+.cv .card .list-group-item {
+  background-color: inherit;
+  border-color: var(--global-divider-color);
+}
+.cv .card .list-group-item .badge {
+  color: var(--global-card-bg-color) !important;
+  background-color: var(--global-theme-color) !important;
+}
+
+@media (min-width: 768px) {
+  .repo {
+    max-width: 50%;
+  }
+}
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
   padding-top: 2rem;
-  padding-bottom: 5rem;
+  padding-bottom: 3rem;
 }
 .header-bar h1 {
   color: var(--global-theme-color);
   font-size: 5rem;
+}
+
+.tag-list {
+  border-bottom: 1px solid var(--global-divider-color);
+  text-align: center;
+  padding-top: 1rem;
+}
+.tag-list ul {
+  justify-content: center;
+  display: flow-root;
+}
+.tag-list ul p,
+.tag-list ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 1rem 0.5rem;
+  color: var(--global-text-color-light);
 }
 
 .post-list {
@@ -337,6 +443,7 @@ footer.sticky-bottom {
   color: var(--global-text-color-light);
   font-size: 0.875rem;
   padding-top: 0.25rem;
+  padding-bottom: 0;
 }
 .post-list li a {
   color: var(--global-text-color);
@@ -374,9 +481,6 @@ footer.sticky-bottom {
 .projects .card img {
   width: 100%;
 }
-.projects .card .card-title {
-  color: #000000;
-}
 .projects .card-item {
   width: auto;
   margin-bottom: 10px;
@@ -385,6 +489,7 @@ footer.sticky-bottom {
   display: flex;
   align-items: center;
 }
+.projects .grid-sizer,
 .projects .grid-item {
   width: 250px;
   margin-bottom: 10px;
@@ -430,6 +535,11 @@ footer.sticky-bottom {
 .publications ol.bibliography li {
   margin-bottom: 1rem;
 }
+.publications ol.bibliography li .preview {
+  width: 100%;
+  min-width: 80px;
+  max-width: 200px;
+}
 .publications ol.bibliography li .abbr {
   height: 2rem;
   margin-bottom: 0.5rem;
@@ -464,6 +574,15 @@ footer.sticky-bottom {
   border-bottom: 1px solid;
   font-style: normal;
 }
+.publications ol.bibliography li .author > span.more-authors {
+  color: var(--global-text-color-light);
+  border-bottom: 1px dashed var(--global-text-color-light);
+  cursor: pointer;
+}
+.publications ol.bibliography li .author > span.more-authors:hover {
+  color: var(--global-text-color);
+  border-bottom: 1px dashed var(--global-text-color);
+}
 .publications ol.bibliography li .links a.btn {
   color: var(--global-text-color);
   border: 1px solid var(--global-text-color);
@@ -476,12 +595,22 @@ footer.sticky-bottom {
   color: var(--global-theme-color);
   border-color: var(--global-theme-color);
 }
+.publications ol.bibliography li .badges span {
+  display: inline-block;
+  color: #000000;
+  height: 100%;
+  padding-left: 0.5rem;
+  vertical-align: middle;
+}
+.publications ol.bibliography li .badges span:hover {
+  text-decoration: underline;
+}
 .publications ol.bibliography li .hidden {
   font-size: 0.875rem;
   max-height: 0px;
   overflow: hidden;
   text-align: justify;
-  -webkit-transition: 0.15s ease;
+  transition-property: 0.15s ease;
   -moz-transition: 0.15s ease;
   -ms-transition: 0.15s ease;
   -o-transition: 0.15s ease;
@@ -498,7 +627,7 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .hidden.open {
   max-height: 100em;
-  -webkit-transition: 0.15s ease;
+  transition-property: 0.15s ease;
   -moz-transition: 0.15s ease;
   -ms-transition: 0.15s ease;
   -o-transition: 0.15s ease;
@@ -521,9 +650,11 @@ pre {
   border-radius: 6px;
   padding: 6px 12px;
 }
-pre pre, pre code {
+pre pre,
+pre code {
   background-color: transparent;
   border-radius: 0;
+  margin-bottom: 0;
   padding: 0;
 }
 
@@ -550,6 +681,7 @@ html.transition *:after {
 .post .post-tags {
   color: var(--global-text-color-light);
   font-size: 0.875rem;
+  padding-top: 0.25rem;
   padding-bottom: 1rem;
 }
 .post .post-tags a {
@@ -564,10 +696,80 @@ html.transition *:after {
   padding: 8px;
 }
 
-.post-tags {
-  color: var(--global-text-color-light);
-  font-size: 0.875rem;
-  padding-top: 0.25rem;
+progress {
+  /* Positioning */
+  position: fixed;
+  left: 0;
+  top: 56px;
+  z-index: 10;
+  /* Dimensions */
+  width: 100%;
+  height: 1px;
+  /* Reset the appearance */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  /* Get rid of the default border in Firefox/Opera. */
+  border: none;
+  /* Progress bar container for Firefox/IE10  */
+  background-color: transparent;
+  /* Progress bar value for IE10  */
+  color: var(--global-theme-color);
+}
+
+progress::-webkit-progress-bar {
+  background-color: transparent;
+}
+
+progress::-webkit-progress-value {
+  background-color: var(--global-theme-color);
+}
+
+progress::-moz-progress-bar {
+  background-color: var(--global-theme-color);
+}
+
+.progress-container {
+  width: 100%;
+  background-color: transparent;
+  position: fixed;
+  top: 56px;
+  left: 0;
+  height: 5px;
+  display: block;
+}
+
+.progress-bar {
+  background-color: var(--global-theme-color);
+  width: 0%;
+  display: block;
+  height: inherit;
+}
+
+pre {
+  padding: 8px 12px;
+  position: relative;
+  /* Copy code to clipboard button */
+}
+pre .copy {
+  background: var(--global-card-bg-color);
+  border-color: var(--global-bg-color);
+  border-radius: 0.3rem;
+  border-style: solid;
+  color: var(--global-text-color);
+  font-size: medium;
+  opacity: 0;
+  position: absolute;
+  right: 0.25rem;
+  top: 0.25rem;
+}
+pre .copy:active, pre .copy:focus, pre .copy:hover {
+  color: var(--global-hover-color);
+  opacity: 1;
+}
+pre:active .copy, pre:focus .copy, pre:hover .copy {
+  color: var(--global-hover-color);
+  opacity: 1;
 }
 
 /*******************************************************************************
@@ -591,14 +793,17 @@ d-byline a:hover, d-article d-byline a:hover {
 d-article {
   border-top-color: var(--global-divider-color) !important;
 }
-d-article a, d-article p, d-article h1, d-article h2, d-article h3, d-article h4, d-article h5, d-article h6, d-article li, d-article table {
+d-article p, d-article h1, d-article h2, d-article h3, d-article h4, d-article h5, d-article h6, d-article li, d-article table {
   color: var(--global-text-color) !important;
 }
-d-article a, d-article h1, d-article h2, d-article hr, d-article table, d-article table th, d-article table td {
+d-article h1, d-article h2, d-article hr, d-article table, d-article table th, d-article table td {
   border-bottom-color: var(--global-divider-color) !important;
 }
+d-article a {
+  color: var(--global-theme-color) !important;
+}
 d-article a:hover {
-  border-bottom-color: var(--global-hover-color) !important;
+  color: var(--global-theme-color) !important;
 }
 d-article b i {
   display: inline;
@@ -653,6 +858,9 @@ d-article d-contents .figcaption {
 d-article d-contents toc-line {
   border-right: 1px solid var(--global-divider-color);
   grid-column: toc-line;
+}
+d-article d-footnote {
+  scroll-margin-top: 66px;
 }
 
 d-appendix {
