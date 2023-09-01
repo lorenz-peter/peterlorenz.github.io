@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: lorenz-peter.github.io/sitemap.xml
+Sitemap: lorenz-peter.github.io/al-folio/sitemap.xml
