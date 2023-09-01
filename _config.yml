@@ -11,6 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal Website
 footer_text: >
   Personal Website
+keywords: peter, lorenz, security, deep, learning
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👨‍🎓 # the emoji used as the favicon
 url: lorenz-peter.github.io # the base hostname & protocol for your site
