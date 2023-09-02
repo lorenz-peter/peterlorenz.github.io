@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Peter Lorenz
-    - name: Date of Birth
-      value: 
     - name: Languages
       value: German, English, French, Chinese
 
@@ -15,32 +13,25 @@
       institution: University of Heidelberg, Germany
       year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Trustworthy ML
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Adversarial Robustness
+            - Diffusion Generative Models Fake Detection
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Internship
+      institution: MSU and MIT-IBM
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - (Visual Prompting for Adversarial Robustness)[https://arxiv.org/abs/2210.06284]
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://lorenz-peter.github.io/blog/2023/gandalf/">Writeup Gandalf from Lakera</a>
+      year: 2023
+      description: Writeup of tricking an LLM.
 
 - title: Honors and Awards
   type: time_table
@@ -54,15 +45,8 @@
   type: nested_list
   contents:
     - title: Trustworthy Machine Learning
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    -  Kickboxing, Meditaton
+    -  Kickboxing, Meditation
