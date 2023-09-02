@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>ITWM Fraunhofer</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>ITWM Fraunhofer</a>
 
 profile:
   align: right
