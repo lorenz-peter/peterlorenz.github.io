@@ -24,7 +24,7 @@
       institution: MSU and MIT-IBM
       year: 2022
       description:
-        - <a href="https://arxiv.org/abs/2210.06284">Visual Prompting for Adversarial Robustness</a> (Visual Prompting for Adversarial Robustness)[]
+        - <a href="https://arxiv.org/abs/2210.06284">Visual Prompting for Adversarial Robustness</a>
 
 - title: Open Source Projects
   type: time_table
@@ -49,4 +49,4 @@
 - title: Other Interests
   type: list
   contents:
-    -  Kickboxing, Meditation
+    -  Kickboxing, Meditation, Basketball
