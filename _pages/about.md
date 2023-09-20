@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>ITWM Fraunhofer</a>
+subtitle: <a href='#'>ITWM Fraunhofer + Heidelberg University</a>
 
 profile:
   align: right
