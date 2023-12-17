@@ -6,7 +6,7 @@ subtitle: <a href='#'>ITWM Fraunhofer + Heidelberg University</a>
 
 profile:
   align: right
-  image: peter2_gray.jpg
+  image: profile_blue.png
   address: >
     <p>ITWM, Fraunhofer Institute for Industrial Mathematics</p>
     <p>Fraunhoferplatz 1</p>
