@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Literature
-date: 2023-08-26 16:40:16
+date: 2024-02-26 16:40:16
 description: Paper Collections
-tags: security  diffusionmodels  adversarial robustness
+tags: security  diffusion models  adversarial robustness
 categories: research
 comments: true
 ---
@@ -14,9 +14,9 @@ Important links that help to get an overview of Diffusion Models and Adversarial
 
 ## Diffusion Models
 
-Fundamentals: https://lilianweng.github.io/posts/2021-07-11-diffusion-models
+Fundamentals: [https://lilianweng.github.io/posts/2021-07-11-diffusion-models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models)
 
-Paper history: https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html
+Paper history: [https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html](https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html)
 
 
 ## Adversarial Robustness
@@ -24,12 +24,12 @@ Paper history: https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.htm
 [Paper history](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
 
 Benchmarks websites:
- - https://robustbench.github.io
- - https://ml.cs.tsinghua.edu.cn/ares-bench/#/leaderboard
+ - [https://robustbench.github.io](https://robustbench.github.io)
+ - [https://ml.cs.tsinghua.edu.cn/ares-bench/#/leaderboard](https://ml.cs.tsinghua.edu.cn/ares-bench/#/leaderboard)
 
-BlackBox attacks: https://github.com/SCLBD/BlackboxBench
+BlackBox attacks: [https://github.com/SCLBD/BlackboxBench](https://github.com/SCLBD/BlackboxBench)
 
 
 ## AI
 
-Free tool: www.perplexity.ai 
+Free tool: [www.perplexity.ai](www.perplexity.ai) 
