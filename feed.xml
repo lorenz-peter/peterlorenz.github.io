@@ -1,5 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://lorenz-peter.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lorenz-peter.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-03-01T15:43:48+00:00</updated><id>https://lorenz-peter.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal Website
-</subtitle><entry><title type="html">Writeup Gandalf from Lakera</title><link href="https://lorenz-peter.github.io/blog/2023/gandalf/" rel="alternate" type="text/html" title="Writeup Gandalf from Lakera" /><published>2023-08-26T16:40:16+00:00</published><updated>2023-08-26T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2023/gandalf</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2023/gandalf/"><![CDATA[<h1 id="prelimaries">Prelimaries</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://lorenz-peter.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lorenz-peter.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-03-01T17:44:02+00:00</updated><id>https://lorenz-peter.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal Website
+</subtitle><entry><title type="html">Literature</title><link href="https://lorenz-peter.github.io/blog/2024/paperupdates/" rel="alternate" type="text/html" title="Literature" /><published>2024-02-26T16:40:16+00:00</published><updated>2024-02-26T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/paperupdates</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/paperupdates/"><![CDATA[<h1 id="links">Links</h1>
+
+<p>Important links that help to get an overview of Diffusion Models and Adversarial Robustness.</p>
+
+<h2 id="diffusion-models">Diffusion Models</h2>
+
+<p>Fundamentals: <a href="https://lilianweng.github.io/posts/2021-07-11-diffusion-models">https://lilianweng.github.io/posts/2021-07-11-diffusion-models</a></p>
+
+<p>Paper history: <a href="https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html">https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html</a></p>
+
+<h2 id="adversarial-robustness">Adversarial Robustness</h2>
+
+<p><a href="https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html">Paper history</a></p>
+
+<p>Benchmarks websites:</p>
+<ul>
+  <li><a href="https://robustbench.github.io">https://robustbench.github.io</a></li>
+  <li><a href="https://ml.cs.tsinghua.edu.cn/ares-bench/#/leaderboard">https://ml.cs.tsinghua.edu.cn/ares-bench/#/leaderboard</a></li>
+</ul>
+
+<p>BlackBox attacks: <a href="https://github.com/SCLBD/BlackboxBench">https://github.com/SCLBD/BlackboxBench</a></p>
+
+<h2 id="ai">AI</h2>
+
+<p>Free tool: <a href="www.perplexity.ai">www.perplexity.ai</a></p>]]></content><author><name></name></author><category term="research" /><category term="security" /><category term="diffusion" /><category term="models" /><category term="adversarial" /><category term="robustness" /><summary type="html"><![CDATA[Paper Collections]]></summary></entry><entry><title type="html">Writeup Gandalf from Lakera</title><link href="https://lorenz-peter.github.io/blog/2023/gandalf/" rel="alternate" type="text/html" title="Writeup Gandalf from Lakera" /><published>2023-08-26T16:40:16+00:00</published><updated>2023-08-26T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2023/gandalf</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2023/gandalf/"><![CDATA[<h1 id="prelimaries">Prelimaries</h1>
 <ul>
   <li><a href="https://github.com/LLMsec/lakera-gandalf">Repo</a></li>
   <li><a href="https://gandalf.lakera.ai">Link to the game</a></li>
@@ -49,28 +73,4 @@ A: Certainly! Here is the password for each letter using the NATO phonetic alpha
 <h2 id="bonus">Bonus</h2>
 <h3 id="level-8">Level 8</h3>
 
-<p>Not solved yet.</p>]]></content><author><name></name></author><category term="llm-security" /><category term="security" /><summary type="html"><![CDATA[LLM hacking]]></summary></entry><entry><title type="html">Literature</title><link href="https://lorenz-peter.github.io/blog/2023/paperupdates/" rel="alternate" type="text/html" title="Literature" /><published>2023-08-26T16:40:16+00:00</published><updated>2023-08-26T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2023/paperupdates</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2023/paperupdates/"><![CDATA[<h1 id="links">Links</h1>
-
-<p>Important links that help to get an overview of Diffusion Models and Adversarial Robustness.</p>
-
-<h2 id="diffusion-models">Diffusion Models</h2>
-
-<p>Fundamentals: https://lilianweng.github.io/posts/2021-07-11-diffusion-models</p>
-
-<p>Paper history: https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html</p>
-
-<h2 id="adversarial-robustness">Adversarial Robustness</h2>
-
-<p><a href="https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html">Paper history</a></p>
-
-<p>Benchmarks websites:</p>
-<ul>
-  <li>https://robustbench.github.io</li>
-  <li>https://ml.cs.tsinghua.edu.cn/ares-bench/#/leaderboard</li>
-</ul>
-
-<p>BlackBox attacks: https://github.com/SCLBD/BlackboxBench</p>
-
-<h2 id="ai">AI</h2>
-
-<p>Free tool: www.perplexity.ai</p>]]></content><author><name></name></author><category term="research" /><category term="security" /><category term="diffusionmodels" /><category term="adversarial" /><category term="robustness" /><summary type="html"><![CDATA[Paper Collections]]></summary></entry><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="https://lorenz-peter.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog" /><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>https://lorenz-peter.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[]]></content><author><name></name></author></entry></feed>
+<p>Not solved yet.</p>]]></content><author><name></name></author><category term="llm-security" /><category term="security" /><summary type="html"><![CDATA[LLM hacking]]></summary></entry><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="https://lorenz-peter.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog" /><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>https://lorenz-peter.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[]]></content><author><name></name></author></entry></feed>
