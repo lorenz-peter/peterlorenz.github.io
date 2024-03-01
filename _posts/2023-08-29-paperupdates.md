@@ -16,7 +16,7 @@ Important links that help to get an overview of Diffusion Models and Adversarial
 
 Fundamentals: [https://lilianweng.github.io/posts/2021-07-11-diffusion-models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models)
 
-Paper history: [https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html](https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html)
+[Paper history](https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html)
 
 
 ## Adversarial Robustness
