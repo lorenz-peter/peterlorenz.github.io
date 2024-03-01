@@ -32,4 +32,4 @@ BlackBox attacks: [https://github.com/SCLBD/BlackboxBench](https://github.com/SC
 
 ## AI
 
-Free tool: [www.perplexity.ai](www.perplexity.ai) 
+Free tool: [perplexity.ai](https://www.perplexity.ai/)
