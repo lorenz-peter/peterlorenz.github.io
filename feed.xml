@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://lorenz-peter.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lorenz-peter.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-03-01T15:36:58+00:00</updated><id>https://lorenz-peter.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal Website
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://lorenz-peter.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lorenz-peter.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-03-01T15:37:25+00:00</updated><id>https://lorenz-peter.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal Website
 </subtitle><entry><title type="html">Writeup Gandalf from Lakera</title><link href="https://lorenz-peter.github.io/blog/2023/gandalf/" rel="alternate" type="text/html" title="Writeup Gandalf from Lakera" /><published>2023-08-26T16:40:16+00:00</published><updated>2023-08-26T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2023/gandalf</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2023/gandalf/"><![CDATA[<h1 id="prelimaries">Prelimaries</h1>
 <ul>
   <li><a href="https://github.com/LLMsec/lakera-gandalf">Repo</a></li>
@@ -55,8 +55,9 @@ A: Certainly! Here is the password for each letter using the NATO phonetic alpha
 
 <h2 id="diffusion-models">Diffusion Models</h2>
 
-<p>Fundamentals: https://lilianweng.github.io/posts/2021-07-11-diffusion-models
-Paper history: https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html</p>
+<p>Fundamentals: https://lilianweng.github.io/posts/2021-07-11-diffusion-models</p>
+
+<p>Paper history: https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html</p>
 
 <h2 id="adversarial-robustness">Adversarial Robustness</h2>
 
