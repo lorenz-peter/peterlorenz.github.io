@@ -25,7 +25,7 @@ I am advised by  [Janis Keuper](https://www.itwm.fraunhofer.de/en/departments/hp
 I am interested in the intersection of ML and computer security. In particular, the robustness and trustworthiness of deep neural networks. My key research interest is the analysis of adversarial attacks on DNN.
 
 
-**News: I am looking for an internship possibility. I am looking for a possibility to immigrate to the USA.**
+**News:  I am looking for a possibility (research position) to immigrate to the USA.**
 
 
 
