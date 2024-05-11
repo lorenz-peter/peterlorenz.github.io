@@ -24,7 +24,7 @@ I was advised by  [Janis Keuper](https://www.itwm.fraunhofer.de/en/departments/h
 In particular, **robustness** and **trustworthiness** of deep neural networks. 
 My key research interest is the **analysis of adversarial examples** on DNN. 
 
-I also had the opportunity to intern with Professor Sijia Liu ([MSU](https://engineering.msu.edu/faculty/Sijia-Liu](https://lsjxjtu.github.io/) & [MIT-IBM](https://mitibmwatsonailab.mit.edu/people/sijia-liu/)) and Pi-Yun Chen ([MIT-IBM](https://sites.google.com/site/pinyuchenpage/home)), focusing on adversarial machine learning.
+I also had the opportunity to intern with Professor Sijia Liu ([MSU](https://engineering.msu.edu/faculty/Sijia-Liu](https://lsjxjtu.github.io/) & [MIT-IBM](https://mitibmwatsonailab.mit.edu/people/sijia-liu/)) and Pin-Yu Chen ([MIT-IBM](https://sites.google.com/site/pinyuchenpage/home)), focusing on adversarial machine learning.
 Our paper titled "Visual Prompting for Adversarial Robustness" achieved recognition within the top 3%.
 
 
