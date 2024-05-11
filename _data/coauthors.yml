@@ -1,13 +1,13 @@
 "Straßel":
-  - firstname: ["Dominik", "D.", "Dominik Straßel"]
+  - firstname: ["Dominik", "D."]
     url: https://www.linkedin.com/in/dominik-s-b57062221/
 
 "Strassel":
-  - firstname: ["Dominik", "D.", "Dominik Strassel"]
+  - firstname: ["Dominik", "D."]
     url: https://www.linkedin.com/in/dominik-s-b57062221/
 
 "Harder":
-  - firstname: ["Paula", "P.", "Paula Harder" ]
+  - firstname: ["Paula", "P."]
     url: https://paulaharder.github.io/
 
 "Steinbauer": 
@@ -15,22 +15,25 @@
     url: https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=9F13E369D9C1EA7F&pPersonenGruppe=3
 
 "Chen":
-  - firstname: ["Pin-Yu", "P.", "Pin-Yu Chen"]
+  - firstname: ["Pin-Yu", "P."]
     url: https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Pin-Yu.Chen
     
 "Liu":
-  - firstname: ["Sijia", "S.", "Sijia Liu"]
+  - firstname: ["Sijia", "S."]
     url: https://lsjxjtu.github.io/
     
 "Chen*":
-  - firstname: ["Aochuan", "A.", "Aochuan Chen"]
+  - firstname: ["Aochuan", "A."]
     url: https://cse.msu.edu/~chenaoch
 
 "Durall":
-  - firstname: ["Ricard", "R.", "Ricard Durall"]
+  - firstname: ["Ricard", "R."]
     url: https://scholar.google.com/citations?user=bwxC07sAAAAJ&hl=en
 
 "Keuper":
   - firstname: ["Margret", "M."]
     url: https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper
 
+"Keuper":
+  - firstname: ["Janis", "J."]
+    url: https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper
