@@ -1,5 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://lorenz-peter.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lorenz-peter.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-02T20:20:39+00:00</updated><id>https://lorenz-peter.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal Website
-</subtitle><entry><title type="html">Write a Scientific Review</title><link href="https://lorenz-peter.github.io/blog/2024/reviewer/" rel="alternate" type="text/html" title="Write a Scientific Review" /><published>2024-05-25T16:40:16+00:00</published><updated>2024-05-25T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/reviewer</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/reviewer/"><![CDATA[<h1 id="how-to-write-a-good-scientific-review">How to write a good scientific review?</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://lorenz-peter.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lorenz-peter.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-02T20:29:47+00:00</updated><id>https://lorenz-peter.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal Website
+</subtitle><entry><title type="html">Write</title><link href="https://lorenz-peter.github.io/blog/2024/write/" rel="alternate" type="text/html" title="Write" /><published>2024-06-02T00:00:00+00:00</published><updated>2024-06-02T00:00:00+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/write</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/write/"><![CDATA[<h1 id="how-to-improve-your-writing">How to improve your writing?</h1>
+
+<ol>
+  <li>Be concise!</li>
+  <li>Sentences to sentences should be coherent.</li>
+  <li>Write first in your own simple words.
+    <ul>
+      <li>Keep sentences short and simple.</li>
+      <li>Learn a scientific vocabulary.</li>
+      <li>Use tools such as ChatGPT or https://www.deepl.com/write to rewrite your sentence.</li>
+      <li>Use tools to check your spelling and grammar, e.g. Grammarly or LanguageTool.</li>
+    </ul>
+  </li>
+  <li>Section to section should be coherent.
+    <ul>
+      <li>Check if the discussion section and conclusion match together.</li>
+    </ul>
+  </li>
+</ol>]]></content><author><name></name></author><summary type="html"><![CDATA[How to improve your writing?]]></summary></entry><entry><title type="html">Write a Scientific Review</title><link href="https://lorenz-peter.github.io/blog/2024/reviewer/" rel="alternate" type="text/html" title="Write a Scientific Review" /><published>2024-05-25T16:40:16+00:00</published><updated>2024-05-25T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/reviewer</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/reviewer/"><![CDATA[<h1 id="how-to-write-a-good-scientific-review">How to write a good scientific review?</h1>
 
 <h2 id="tutorials">Tutorials</h2>
 <p>Being a good reviewer involves a combination of skills, attitudes, and practices.</p>
