@@ -1,23 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://lorenz-peter.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lorenz-peter.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-02T20:29:47+00:00</updated><id>https://lorenz-peter.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal Website
-</subtitle><entry><title type="html">Write</title><link href="https://lorenz-peter.github.io/blog/2024/write/" rel="alternate" type="text/html" title="Write" /><published>2024-06-02T00:00:00+00:00</published><updated>2024-06-02T00:00:00+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/write</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/write/"><![CDATA[<h1 id="how-to-improve-your-writing">How to improve your writing?</h1>
-
-<ol>
-  <li>Be concise!</li>
-  <li>Sentences to sentences should be coherent.</li>
-  <li>Write first in your own simple words.
-    <ul>
-      <li>Keep sentences short and simple.</li>
-      <li>Learn a scientific vocabulary.</li>
-      <li>Use tools such as ChatGPT or https://www.deepl.com/write to rewrite your sentence.</li>
-      <li>Use tools to check your spelling and grammar, e.g. Grammarly or LanguageTool.</li>
-    </ul>
-  </li>
-  <li>Section to section should be coherent.
-    <ul>
-      <li>Check if the discussion section and conclusion match together.</li>
-    </ul>
-  </li>
-</ol>]]></content><author><name></name></author><summary type="html"><![CDATA[How to improve your writing?]]></summary></entry><entry><title type="html">Write a Scientific Review</title><link href="https://lorenz-peter.github.io/blog/2024/reviewer/" rel="alternate" type="text/html" title="Write a Scientific Review" /><published>2024-05-25T16:40:16+00:00</published><updated>2024-05-25T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/reviewer</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/reviewer/"><![CDATA[<h1 id="how-to-write-a-good-scientific-review">How to write a good scientific review?</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://lorenz-peter.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lorenz-peter.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-02T20:30:47+00:00</updated><id>https://lorenz-peter.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal Website
+</subtitle><entry><title type="html">Write a Scientific Review</title><link href="https://lorenz-peter.github.io/blog/2024/reviewer/" rel="alternate" type="text/html" title="Write a Scientific Review" /><published>2024-05-25T16:40:16+00:00</published><updated>2024-05-25T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/reviewer</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/reviewer/"><![CDATA[<h1 id="how-to-write-a-good-scientific-review">How to write a good scientific review?</h1>
 
 <h2 id="tutorials">Tutorials</h2>
 <p>Being a good reviewer involves a combination of skills, attitudes, and practices.</p>
@@ -108,7 +90,25 @@ Make sure you have a long, successful, and productive research career by taking 
 
 <h2 id="break-bad-habits">Break Bad Habits</h2>
 <p>Aside from building new good habits, it’s important to break bad ones. 
-In a research lab, you can get in the habit of using existing technologies and protocols that had been established in the lab long before you even got there. Sometimes there are smarter technologies or protocols that you can use instead. Break out of old habits, and start finding more efficient alternative protocols and technologies now.</p>]]></content><author><name></name></author><category term="self-organization" /><category term="habits" /><summary type="html"><![CDATA[Atomic habits]]></summary></entry><entry><title type="html">Literature</title><link href="https://lorenz-peter.github.io/blog/2024/paperupdates/" rel="alternate" type="text/html" title="Literature" /><published>2024-02-26T16:40:16+00:00</published><updated>2024-02-26T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/paperupdates</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/paperupdates/"><![CDATA[<h1 id="links">Links</h1>
+In a research lab, you can get in the habit of using existing technologies and protocols that had been established in the lab long before you even got there. Sometimes there are smarter technologies or protocols that you can use instead. Break out of old habits, and start finding more efficient alternative protocols and technologies now.</p>]]></content><author><name></name></author><category term="self-organization" /><category term="habits" /><summary type="html"><![CDATA[Atomic habits]]></summary></entry><entry><title type="html">Write a paper!</title><link href="https://lorenz-peter.github.io/blog/2024/write/" rel="alternate" type="text/html" title="Write a paper!" /><published>2024-03-22T16:40:16+00:00</published><updated>2024-03-22T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/write</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/write/"><![CDATA[<h1 id="how-to-improve-your-writing">How to improve your writing?</h1>
+
+<ol>
+  <li>Be concise!</li>
+  <li>Sentences to sentences should be coherent.</li>
+  <li>Write first in your own simple words.
+    <ul>
+      <li>Keep sentences short and simple.</li>
+      <li>Learn a scientific vocabulary.</li>
+      <li>Use tools such as ChatGPT or https://www.deepl.com/write to rewrite your sentence.</li>
+      <li>Use tools to check your spelling and grammar, e.g. Grammarly or LanguageTool.</li>
+    </ul>
+  </li>
+  <li>Section to section should be coherent.
+    <ul>
+      <li>Check if the discussion section and conclusion match together.</li>
+    </ul>
+  </li>
+</ol>]]></content><author><name></name></author><category term="self-organization" /><category term="writing" /><summary type="html"><![CDATA[How to write a paper?]]></summary></entry><entry><title type="html">Literature</title><link href="https://lorenz-peter.github.io/blog/2024/paperupdates/" rel="alternate" type="text/html" title="Literature" /><published>2024-02-26T16:40:16+00:00</published><updated>2024-02-26T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/paperupdates</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/paperupdates/"><![CDATA[<h1 id="links">Links</h1>
 
 <p>Important links that help to get an overview of Diffusion Models and Adversarial Robustness.</p>
 
