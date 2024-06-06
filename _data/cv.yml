@@ -1,52 +1,51 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+  - name: Full Name
       value: Peter Lorenz
-    - name: Languages
+  - name: Languages
       value: German, English, French, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+  - title: PhD
       institution: University of Heidelberg, Germany
       year: 2024
       description:
-        - title: Trustworthy ML
+    - title: Trustworthy ML
           contents:
-            - Adversarial Robustness
-            - Diffusion Generative Models Fake Detection
+      - Adversarial Robustness
+      - Diffusion Generative Models Fake Detection
 - title: Experience
   type: time_table
   contents:
-    - title: Internship
+  - title: Internship
       institution: MSU and MIT-IBM
       year: 2022
       description:
-        - <a href="https://arxiv.org/abs/2210.06284">Visual Prompting for Adversarial Robustness</a>
+    - <a href="https://arxiv.org/abs/2210.06284">Visual Prompting for Adversarial Robustness</a>
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://lorenz-peter.github.io/blog/2023/gandalf/">Writeup Gandalf from Lakera</a>
+  - title: <a href="https://lorenz-peter.github.io/blog/2023/gandalf/">Writeup Gandalf from Lakera</a>
       year: 2023
       description: Writeup of tricking an LLM.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
-      items: 
-        - ICASSP - Top 3% 
-    
+  - year: 2023
+      items:
+    - ICASSP - Top 3%
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Trustworthy Machine Learning
+  - title: Trustworthy Machine Learning
 
 - title: Other Interests
   type: list
   contents:
-    -  Kickboxing, Meditation, Basketball
+  - Kickboxing, Meditation, Basketball
