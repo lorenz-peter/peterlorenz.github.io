@@ -1,54 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://lorenz-peter.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lorenz-peter.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-06T16:12:02+00:00</updated><id>https://lorenz-peter.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal Website
-</subtitle><entry><title type="html">How to write a good scientific review?</title><link href="https://lorenz-peter.github.io/blog/2024/how-to-write-a-good-scientific-review/" rel="alternate" type="text/html" title="How to write a good scientific review?" /><published>2024-06-06T16:05:07+00:00</published><updated>2024-06-06T16:05:07+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/how-to-write-a-good-scientific-review</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/how-to-write-a-good-scientific-review/"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">Write a Scientific Review</title><link href="https://lorenz-peter.github.io/blog/2024/reviewer/" rel="alternate" type="text/html" title="Write a Scientific Review" /><published>2024-05-25T16:40:16+00:00</published><updated>2024-05-25T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/reviewer</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/reviewer/"><![CDATA[<h1 id="how-to-write-a-good-scientific-review">How to write a good scientific review?</h1>
-
-<h2 id="tutorials">Tutorials</h2>
-<p>Being a good reviewer involves a combination of skills, attitudes, and practices.</p>
-
-<p>Open source tutorials from a top notch conference:</p>
-<ul>
-  <li><a href="https://sites.google.com/view/making-reviews-great-again">Make Reviews great again</a></li>
-  <li><a href="https://www.youtube.com/watch?v=W1zPtTt43LI">CVPR Video 2020</a></li>
-  <li><a href="https://docs.google.com/presentation/d/e/2PACX-1vT8bmHIEI3fBLTqSJpTV41mSAkf8_Y-yxahXokAaa4KnqfOuFHFvNYtSzyheoh_wiwEebz_YbQV2ivN/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.g14388b2f8a3_1_78">CVPR Tutorial 2024</a></li>
-</ul>
-
-<h2 id="use-a-concise-language">Use a concise Language</h2>
-
-<p>Here are some tips to help you write more concisely:</p>
-
-<ol>
-  <li>
-    <p><strong>Eliminate Redundancies</strong>: Remove unnecessary repetition and redundant phrases. Each word should contribute new information.</p>
-  </li>
-  <li>
-    <p><strong>Use Active Voice</strong>: Active voice makes sentences clearer and more direct, often requiring fewer words. For example, “The experiment was conducted by the researchers” can be rewritten as “The researchers conducted the experiment.”</p>
-  </li>
-  <li>
-    <p><strong>Avoid Wordy Phrases</strong>: Replace wordy phrases with concise alternatives. For instance, “in order to” can be shortened to “to,” and “due to the fact that” can be replaced with “because.”</p>
-  </li>
-  <li>
-    <p><strong>Cut Unnecessary Words</strong>: Review your sentences and remove any words that don’t add value to the meaning. Look for filler words like “very,” “quite,” “actually,” etc.</p>
-  </li>
-  <li>
-    <p><strong>Condense Prepositional Phrases</strong>: Try to condense prepositional phrases where possible. For example, “the results of the experiment” can be shortened to “the experimental results.”</p>
-  </li>
-  <li>
-    <p><strong>Choose Strong Verbs</strong>: Opt for strong, precise verbs instead of relying on adverbs or additional words. This can make your writing more impactful and concise.</p>
-  </li>
-  <li>
-    <p><strong>Focus on Key Points</strong>: Prioritize the most important information and focus on conveying those key points concisely. Avoid including unnecessary details or tangential information.</p>
-  </li>
-  <li>
-    <p><strong>Use Bullet Points or Lists</strong>: When presenting a series of related points, consider using bullet points or lists to convey information succinctly.</p>
-  </li>
-  <li>
-    <p><strong>Be Clear and Direct</strong>: Aim for clarity and directness in your writing. Avoid convoluted sentences or overly complex language that can confuse readers.</p>
-  </li>
-  <li>
-    <p><strong>Revise and Edit</strong>: After writing your paper, revise it multiple times with a focus on trimming unnecessary words and phrases. Editing is key to achieving concise writing.</p>
-  </li>
-</ol>
-
-<p>By implementing these tips, you can effectively streamline your writing and ensure that your review communicates clearly and concisely.</p>]]></content><author><name></name></author><category term="publication" /><category term="reviewer" /><summary type="html"><![CDATA[tutorial on review scientific papers]]></summary></entry><entry><title type="html">Habits</title><link href="https://lorenz-peter.github.io/blog/2024/habits/" rel="alternate" type="text/html" title="Habits" /><published>2024-03-22T16:40:16+00:00</published><updated>2024-03-22T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/habits</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/habits/"><![CDATA[<h1 id="habits">Habits</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://lorenz-peter.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lorenz-peter.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-06T16:16:20+00:00</updated><id>https://lorenz-peter.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal Website
+</subtitle><entry><title type="html">How to write a good scientific review?</title><link href="https://lorenz-peter.github.io/blog/2024/how-to-write-a-good-scientific-review/" rel="alternate" type="text/html" title="How to write a good scientific review?" /><published>2024-06-06T16:05:07+00:00</published><updated>2024-06-06T16:05:07+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/how-to-write-a-good-scientific-review</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/how-to-write-a-good-scientific-review/"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">Habits</title><link href="https://lorenz-peter.github.io/blog/2024/habits/" rel="alternate" type="text/html" title="Habits" /><published>2024-03-22T16:40:16+00:00</published><updated>2024-03-22T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/habits</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/habits/"><![CDATA[<h1 id="habits">Habits</h1>
 
 <p>Atomic habits emerge to a global behavior of you and your success. 
 It is important to reflect on your habits and spot good and bad habits.</p>
