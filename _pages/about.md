@@ -7,15 +7,15 @@ subtitle: <a href='#'>ITWM Fraunhofer + Heidelberg University</a>
 profile:
   align: right
   image: profile_blue.png
-  address: >
+  image_circular: false # crops the image to make it circular
+  more_info: >
     <p>ITWM, Fraunhofer Institute for Industrial Mathematics</p>
     <p>Fraunhoferplatz 1</p>
     <p>Kaiserslautern, Germany</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Computer science Ph.D. stipend holder at the Fraunhofer Institute for Industrial Mathematics (ITWM) and Fraunhofer Research Center Machine Learning. I am interested in the intersection of ML and computer security.
@@ -33,5 +33,4 @@ Our paper titled "Visual Prompting for Adversarial Robustness" achieved recognit
 **News:  I am looking for a research position.**
 
 <script src="https://tryhackme.com/badge/1768902"></script>
-
 
