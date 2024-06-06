@@ -1,47 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://lorenz-peter.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lorenz-peter.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-06T16:16:20+00:00</updated><id>https://lorenz-peter.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal Website
-</subtitle><entry><title type="html">How to write a good scientific review?</title><link href="https://lorenz-peter.github.io/blog/2024/how-to-write-a-good-scientific-review/" rel="alternate" type="text/html" title="How to write a good scientific review?" /><published>2024-06-06T16:05:07+00:00</published><updated>2024-06-06T16:05:07+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/how-to-write-a-good-scientific-review</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/how-to-write-a-good-scientific-review/"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">Habits</title><link href="https://lorenz-peter.github.io/blog/2024/habits/" rel="alternate" type="text/html" title="Habits" /><published>2024-03-22T16:40:16+00:00</published><updated>2024-03-22T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/habits</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/habits/"><![CDATA[<h1 id="habits">Habits</h1>
-
-<p>Atomic habits emerge to a global behavior of you and your success. 
-It is important to reflect on your habits and spot good and bad habits.</p>
-
-<h2 id="track-your-habits-and-reward-yourself">Track your habits and reward yourself</h2>
-
-<p>I use the free Android App: <a href="https://play.google.com/store/apps/details?id=org.isoron.uhabits&amp;hl=en&amp;gl=US">Loop Habit Tracker</a> to track my progress. 
-There are many more, but I like this one because it is open-source and does not share private information. 
-Moreover, this app (like many habit apps) visualizes progress and this alone motivates me.</p>
-
-<h2 id="limit-distractions">Limit Distractions</h2>
-<p>Distractions are everywhere: your smartphone, email notifications, or even the chatter of loud coworkers. Productive researchers know how to eliminate these distractions. Here are some ideas:</p>
-
-<ul>
-  <li>Put your smartphone out of sight. Keep it in your drawer or your bag.</li>
-  <li>Clean your desk regularly.</li>
-  <li>Close your email tab in your browser. Set a time in your schedule to answer emails.</li>
-  <li>Wear headphones and listen to music or white noise to tune out loud conversations.</li>
-</ul>
-
-<p>For researchers, these tips can be very helpful when writing theses, papers, or grants.</p>
-
-<p>A useful cross-platform tool is <a href="https://stayfreeapps.com">stayfreeapps</a>, where access to websites, apps and so on can be limited.</p>
-
-<h2 id="take-care-of-yourself">Take Care of Yourself</h2>
-
-<p>Many junior researchers fall into the trap of working harder and longer hours at the cost of their well-being. Over time, this leads to mental fatigue and even burnout. 
-Make sure you have a long, successful, and productive research career by taking care of yourself.</p>
-
-<p>Studies have shown that taking frequent breaks can help improve productivity [1,2]. Eating, exercising, and sleeping well will also help your focus and creativity. Taking care of yourself will keep your cognitive functions in top shape for more strategic thinking. You will find yourself completing your tasks in smarter, more efficient ways.</p>
-
-<p>Longer hours don’t mean better results. Keep that in mind.</p>
-
-<h4 id="references">References</h4>
-<ol>
-  <li>Henning RA et al. (1997). Frequent short rest breaks from computer work: effects on productivity and well-being at two field sites. Ergonomics 40(1):78-91.</li>
-  <li>Ariga A and Lleras A. (2011). Brief and rare mental “breaks” keep you focused: deactivation and reactivation of task goals preempt vigilance decrements. Cognition 118(3):493-40.</li>
-</ol>
-
-<h2 id="break-bad-habits">Break Bad Habits</h2>
-<p>Aside from building new good habits, it’s important to break bad ones. 
-In a research lab, you can get in the habit of using existing technologies and protocols that had been established in the lab long before you even got there. Sometimes there are smarter technologies or protocols that you can use instead. Break out of old habits, and start finding more efficient alternative protocols and technologies now.</p>]]></content><author><name></name></author><category term="self-organization" /><category term="habits" /><summary type="html"><![CDATA[Atomic habits]]></summary></entry><entry><title type="html">Write a paper!</title><link href="https://lorenz-peter.github.io/blog/2024/write/" rel="alternate" type="text/html" title="Write a paper!" /><published>2024-03-22T16:40:16+00:00</published><updated>2024-03-22T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/write</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/write/"><![CDATA[<h1 id="how-to-improve-your-writing">How to improve your writing?</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://lorenz-peter.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lorenz-peter.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-06T16:22:51+00:00</updated><id>https://lorenz-peter.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal Website
+</subtitle><entry><title type="html">How to write a good scientific review?</title><link href="https://lorenz-peter.github.io/blog/2024/how-to-write-a-good-scientific-review/" rel="alternate" type="text/html" title="How to write a good scientific review?" /><published>2024-06-06T16:05:07+00:00</published><updated>2024-06-06T16:05:07+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/how-to-write-a-good-scientific-review</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/how-to-write-a-good-scientific-review/"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">Write a paper!</title><link href="https://lorenz-peter.github.io/blog/2024/write/" rel="alternate" type="text/html" title="Write a paper!" /><published>2024-03-22T16:40:16+00:00</published><updated>2024-03-22T16:40:16+00:00</updated><id>https://lorenz-peter.github.io/blog/2024/write</id><content type="html" xml:base="https://lorenz-peter.github.io/blog/2024/write/"><![CDATA[<h1 id="how-to-improve-your-writing">How to improve your writing?</h1>
 
 <ol>
   <li>Be concise!</li>
