@@ -146,7 +146,7 @@ disqus_shortname: peterlorenz # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+    rss_url: https://medium.com/@peter_lorenz/feed
 
 # -----------------------------------------------------------------------------
 # Collections
