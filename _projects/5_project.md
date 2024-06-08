@@ -11,7 +11,6 @@ category: fun
 
 ![cat](/assets/img/cat.jpg)
 
-
 This is how to download the images:
 
 ```python
