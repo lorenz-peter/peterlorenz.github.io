@@ -14,7 +14,7 @@
       year: 2024
       description:
     - title: Trustworthy ML
-          contents:
+      contents:
       - Adversarial Robustness
       - Diffusion Generative Models Fake Detection
 - title: Experience
