@@ -2,9 +2,9 @@
   type: map
   contents:
   - name: Full Name
-      value: Peter Lorenz
+    value: Peter Lorenz
   - name: Languages
-      value: German, English, French, Chinese
+    value: German, English, French, Chinese
 
 - title: Education
   type: time_table
