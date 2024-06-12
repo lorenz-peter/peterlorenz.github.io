@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-AAAI WS Paper accepted :sparkles:  Is RobustBench/AutoAttack a suitable Benchmark for Adversarial Robustness?
+AAAI WS Paper accepted :sparkles: Is RobustBench/AutoAttack a suitable Benchmark for Adversarial Robustness?
